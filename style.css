@@ -1,22 +1,15 @@
-img {
-    width: 200px;
+.font {
+    font-size: 25px;
+    font-family: "comic sans";
 }
-
-body {
-    background-color: #a1a1a1;
-    color: #0022cc;
+.Classes {
+    margin: 105px;
+    display: flex;
+    justify-content: flex-end;
 }
-
-h1 {
-    text-align: center;
-    font-family: 'Ephesis', cursive;
+.section, .chicago {  
+    display: flex;
+    justify-content: space-around;
 }
-li { text-align: center;
-    font-family: 'Akronim', cursive;}
-
-.al {
-    color:#32a852;
-}
-.En {
-    color:#fc0000;
+.picture{ width: 450px;
 }
