@@ -1,0 +1,15 @@
+.font {
+    font-size: 25px;
+    font-family: "comic sans";
+}
+.Classes {
+    margin: 105px;
+    display: flex;
+    justify-content: flex-end;
+}
+.section, .chicago {  
+    display: flex;
+    justify-content: space-around;
+}
+.picture{ width: 450px;
+}
