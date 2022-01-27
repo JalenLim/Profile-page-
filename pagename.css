@@ -1,0 +1,7 @@
+.Picture { background-color:#eb4034;
+}
+.Ice {display: flex;
+    justify-content: space-between;
+    width: 450px;
+    margin: 20px;
+}
